@@ -82,47 +82,91 @@ Tostadas con palta y jugo de mango,282,Breakfast
 Tostadas con palta y jugo de naranja,219,Breakfast
 Panqueques de platano (2 porciones), 160,Breakfast
 Tortilla de huevo,199,Breakfast
-Lomo Saltado,522,FullMeal
-Chuletas de Cerdo con arroz,785,FullMeal
-Arroz Chaufa,563,FullMeal
-Ceviche,286,FullMeal
-Arroz con Pollo,648,FullMeal
-Carapulcra con Sopa Seca,880,FullMeal
-Pollo asado con arroz,737,FullMeal
-Pollo al horno con ensalada rusa,768,FullMeal
-Pollo a la plancha con arroz,292,FullMeal
-Pollo a la plancha con arroz integral,235,FullMeal
-Pollo a la parrillada con arroz,537,FullMeal
-Estofado de Pollo,513,FullMeal
-Pollo al horno con ensalada cesar,698,FullMeal
-Pavita con arroz y ensalada clasica,597,FullMeal
-Pavita con arroz y ensalada rusa,578,FullMeal
-Saltado de Pollo,479,FullMeal
-Picante de Pollo,412,FullMeal
-Aji de pollo,527,FullMeal
-Pollo al horno con causa,675,FullMeal
-Pollo a la brasa con papas, 930,FullMeal
-Sopa de Verduras,72,FullMeal
-Sopa a la Minuta,151,FullMeal
-Pizza (2 porciones),596,FullMeal
-Pescado con arroz,384,FullMeal
-Pescado con arroz y lentejas,438,FullMeal
-Sudado de pescado,534,FullMeal
-Pescado a la plancha con arroz, 310,FullMeal
-Pescado a la plancha con arroz integral,286,FullMeal
-Caldo de Pescado,283,FullMeal
-Carne de soya con arroz,238,FullMeal
-Arroz con milanesa,396,FullMeal
-Arroz con milanesa y ensalada cesar,456,FullMeal
-Pollo frito con arroz,638,FullMeal
-Pollo frito con papas fritas,869,FullMeal
-Pollo frito con ensalada de lechugas y tomates,678,FullMeal
-Guiso de pollo,513,FullMeal
-Papa rellena con arroz,573,FullMeal
-Tortilla de verduras con arroz,497,FullMeal
-Tallarines rojos,531,FullMeal
-Tallarines pesto,549,FullMeal
-Bistec con papas fritas,739,FullMeal
-Bistec con arroz, 649,FullMeal
-Hamburguesa (1 porcion),360,FullMeal
-Hamburguesa Royal (1 porcion),608,FullMeal
+Lomo Saltado,522,Lunch
+Chuletas de Cerdo con arroz,785,Lunch
+Arroz Chaufa,563,Lunch
+Ceviche,286,Lunch
+Arroz con Pollo,648,Lunch
+Carapulcra con Sopa Seca,880,Lunch
+Pollo asado con arroz,737,Lunch
+Pollo al horno con ensalada rusa,768,Lunch
+Pollo a la plancha con arroz,292,Lunch
+Pollo a la plancha con arroz integral,235,Lunch
+Pollo a la parrillada con arroz,537,Lunch
+Estofado de Pollo,513,Lunch
+Pollo al horno con ensalada cesar,698,Lunch
+Pavita con arroz y ensalada clasica,597,Lunch
+Pavita con arroz y ensalada rusa,578,Lunch
+Saltado de Pollo,479,Lunch
+Picante de Pollo,412,Lunch
+Aji de pollo,527,Lunch
+Pollo al horno con causa,675,Lunch
+Pollo a la brasa con papas, 930,Lunch
+Sopa de Verduras,72,Lunch
+Sopa a la Minuta,151,Lunch
+Pizza (2 porciones),596,Lunch
+Pescado con arroz,384,Lunch
+Pescado con arroz y lentejas,438,Lunch
+Sudado de pescado,534,Lunch
+Pescado a la plancha con arroz, 310,Lunch
+Pescado a la plancha con arroz integral,286,Lunch
+Caldo de Pescado,283,Lunch
+Carne de soya con arroz,238,Lunch
+Arroz con milanesa,396,Lunch
+Arroz con milanesa y ensalada cesar,456,Lunch
+Pollo frito con arroz,638,Lunch
+Pollo frito con papas fritas,869,Lunch
+Pollo frito con ensalada de lechugas y tomates,678,Lunch
+Guiso de pollo,513,Lunch
+Papa rellena con arroz,573,Lunch
+Tortilla de verduras con arroz,497,Lunch
+Tallarines rojos,531,Lunch
+Tallarines pesto,549,Lunch
+Bistec con papas fritas,739,Lunch
+Bistec con arroz, 649,Lunch
+Hamburguesa (1 porcion),360,Lunch
+Hamburguesa Royal (1 porcion),608,Lunch
+Lomo Saltado,522,Dinner
+Chuletas de Cerdo con arroz,785,Dinner
+Arroz Chaufa,563,Dinner
+Ceviche,286,Dinner
+Arroz con Pollo,648,Dinner
+Carapulcra con Sopa Seca,880,Dinner
+Pollo asado con arroz,737,Dinner
+Pollo al horno con ensalada rusa,768,Dinner
+Pollo a la plancha con arroz,292,Dinner
+Pollo a la plancha con arroz integral,235,Dinner
+Pollo a la parrillada con arroz,537,Dinner
+Estofado de Pollo,513,Dinner
+Pollo al horno con ensalada cesar,698,Dinner
+Pavita con arroz y ensalada clasica,597,Dinner
+Pavita con arroz y ensalada rusa,578,Dinner
+Saltado de Pollo,479,Dinner
+Picante de Pollo,412,Dinner
+Aji de pollo,527,Dinner
+Pollo al horno con causa,675,Dinner
+Pollo a la brasa con papas, 930,Dinner
+Sopa de Verduras,72,Dinner
+Sopa a la Minuta,151,Dinner
+Pizza (2 porciones),596,Dinner
+Pescado con arroz,384,Dinner
+Pescado con arroz y lentejas,438,Dinner
+Sudado de pescado,534,Dinner
+Pescado a la plancha con arroz, 310,Dinner
+Pescado a la plancha con arroz integral,286,Dinner
+Caldo de Pescado,283,Dinner
+Carne de soya con arroz,238,Dinner
+Arroz con milanesa,396,Dinner
+Arroz con milanesa y ensalada cesar,456,Dinner
+Pollo frito con arroz,638,Dinner
+Pollo frito con papas fritas,869,Dinner
+Pollo frito con ensalada de lechugas y tomates,678,Dinner
+Guiso de pollo,513,Dinner
+Papa rellena con arroz,573,Dinner
+Tortilla de verduras con arroz,497,Dinner
+Tallarines rojos,531,Dinner
+Tallarines pesto,549,Dinner
+Bistec con papas fritas,739,Dinner
+Bistec con arroz, 649,Dinner
+Hamburguesa (1 porcion),360,Dinner
+Hamburguesa Royal (1 porcion),608,Dinner
