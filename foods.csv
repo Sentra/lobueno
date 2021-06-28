@@ -1,18 +1,128 @@
 ﻿Food,Calories,Type
 Caramanduca,100,Breakfast
-Pan con mantequilla y agua,270,Breakfast
-Pan con jamon y agua, 230, Breakfast
-Pan con pollo y jugo de naranja,570,Breakfast
-Pan con queso y leche,590,Breakfast
-Pan con salchicha huachana y jugo de fresa,560,Breakfast
-Pan con palta y jugo de papaya,580,Breakfast
-Pan con lomo y cafe,590,Breakfast
-Yogurt con cereales,630,Breakfast
-Tostadas con queso y jugo de piña,530,Breakfast
-Lomo Saltado,930,FullMeal
-Arroz Chaufa,950,FullMeal
-Ceviche,750,FullMeal
-Arroz con Pollo,830,FullMeal
-Sopa Seca,910,FullMeal
-Pollo al horno con ensalda rusa,840,FullMeal
-Pollo a la plancha con arroz,680,FullMeal
+Una taza de quaker,105,Breakfast
+Una taza de café,2,Breakfast
+Jugo de fresa,90,Breakfast
+Jugo de piña,132,Breakfast
+Jugo de papaya,141,Breakfast
+Jugo de mango,145,Breakfast
+Jugo de naranja,112,Breakfast
+Pan con mantequilla y un vaso con agua,86,Breakfast
+Pan con mantequilla y una taza de quaker,191,Breakfast
+Pan con mantequilla y cafe,88,Breakfast
+Pan con mantequilla y jugo de fresa,176,Breakfast
+Pan con mantequilla y jugo de piña,217,Breakfast
+Pan con mantequilla y jugo de papaya,227,Breakfast
+Pan con mantequilla y jugo de mango,231,Breakfast
+Pan con mantequilla y jugo de naranja,198,Breakfast
+Pan con jamon y un vaso con agua, 310, Breakfast
+Pan con jamon y una taza de quaker,415,Breakfast
+Pan con jamon y cafe,312,Breakfast
+Pan con jamon y jugo de fresa,400,Breakfast
+Pan con jamon y jugo de piña,217,Breakfast
+Pan con jamon y jugo de papaya,227,Breakfast
+Pan con jamon y jugo de mango,231,Breakfast
+Pan con jamon y jugo de naranja,198,Breakfast
+Pan con pollo y un vaso con agua, 150, Breakfast
+Pan con pollo y una taza de quaker,255,Breakfast
+Pan con pollo y cafe,152,Breakfast
+Pan con pollo y jugo de fresa,240,Breakfast
+Pan con pollo y jugo de piña,282,Breakfast
+Pan con pollo y jugo de papaya,291,Breakfast
+Pan con pollo y jugo de mango,325,Breakfast
+Pan con pollo y jugo de naranja,262,Breakfast
+Pan con queso y un vaso con agua, 71, Breakfast
+Pan con queso y una taza de quaker,176,Breakfast
+Pan con queso y cafe,173,Breakfast
+Pan con queso y jugo de fresa,161,Breakfast
+Pan con queso y jugo de piña,202,Breakfast
+Pan con queso y jugo de papaya,212,Breakfast
+Pan con queso y jugo de mango,246,Breakfast
+Pan con queso y jugo de naranja,183,Breakfast
+Pan con salchicha huachana y un vaso con agua, 265, Breakfast
+Pan con salchicha huachana y una taza de quaker,370,Breakfast
+Pan con salchicha huachana y cafe,267,Breakfast
+Pan con salchicha huachana y jugo de fresa,355,Breakfast
+Pan con salchicha huachana y jugo de piña,397,Breakfast
+Pan con salchicha huachana y jugo de papaya,406,Breakfast
+Pan con salchicha huachana y jugo de mango,440,Breakfast
+Pan con salchicha huachana y jugo de naranja,377,Breakfast
+Pan con palta y un vaso con agua, 150, Breakfast
+Pan con palta y una taza de quaker,255,Breakfast
+Pan con palta y cafe,152,Breakfast
+Pan con palta y jugo de fresa,240,Breakfast
+Pan con palta y jugo de piña,282,Breakfast
+Pan con palta y jugo de papaya,291,Breakfast
+Pan con palta y jugo de mango,325,Breakfast
+Pan con palta y jugo de naranja,262,Breakfast
+Pan con lomo y un vaso con agua, 170, Breakfast
+Pan con lomo y una taza de quaker,275,Breakfast
+Pan con lomo y cafe,172,Breakfast
+Pan con lomo y jugo de fresa,260,Breakfast
+Pan con lomo y jugo de piña,302,Breakfast
+Pan con lomo y jugo de papaya,311,Breakfast
+Pan con lomo y jugo de mango,345,Breakfast
+Pan con lomo y jugo de naranja,282,Breakfast
+Yogurt con cereales,148,Breakfast
+Tostadas con mantequilla y un vaso con agua, 147
+Tostadas con mantequilla y una taza de quaker,252,Breakfast
+Tostadas con mantequilla y cafe,149,Breakfast
+Tostadas con mantequilla y jugo de fresa,237,Breakfast
+Tostadas con mantequilla y jugo de piña,279,Breakfast
+Tostadas con mantequilla y jugo de papaya,288,Breakfast
+Tostadas con mantequilla y jugo de mango,322,Breakfast
+Tostadas con mantequilla y jugo de naranja,259,Breakfast
+Tostadas con palta y un vaso con agua, 107
+Tostadas con palta y una taza de quaker,212,Breakfast
+Tostadas con palta y cafe,109,Breakfast
+Tostadas con palta y jugo de fresa,197,Breakfast
+Tostadas con palta y jugo de piña,239,Breakfast
+Tostadas con palta y jugo de papaya,248,Breakfast
+Tostadas con palta y jugo de mango,282,Breakfast
+Tostadas con palta y jugo de naranja,219,Breakfast
+Panqueques de platano (2 porciones), 160,Breakfast
+Tortilla de huevo,199,Breakfast
+Lomo Saltado,522,FullMeal
+Chuletas de Cerdo con arroz,785,FullMeal
+Arroz Chaufa,563,FullMeal
+Ceviche,286,FullMeal
+Arroz con Pollo,648,FullMeal
+Carapulcra con Sopa Seca,880,FullMeal
+Pollo asado con arroz,737,FullMeal
+Pollo al horno con ensalada rusa,768,FullMeal
+Pollo a la plancha con arroz,292,FullMeal
+Pollo a la plancha con arroz integral,235,FullMeal
+Pollo a la parrillada con arroz,537,FullMeal
+Estofado de Pollo,513,FullMeal
+Pollo al horno con ensalada cesar,698,FullMeal
+Pavita con arroz y ensalada clasica,597,FullMeal
+Pavita con arroz y ensalada rusa,578,FullMeal
+Saltado de Pollo,479,FullMeal
+Picante de Pollo,412,FullMeal
+Aji de pollo,527,FullMeal
+Pollo al horno con causa,675,FullMeal
+Pollo a la brasa con papas, 930,FullMeal
+Sopa de Verduras,72,FullMeal
+Sopa a la Minuta,151,FullMeal
+Pizza (2 porciones),596,FullMeal
+Pescado con arroz,384,FullMeal
+Pescado con arroz y lentejas,438,FullMeal
+Sudado de pescado,534,FullMeal
+Pescado a la plancha con arroz, 310,FullMeal
+Pescado a la plancha con arroz integral,286,FullMeal
+Caldo de Pescado,283,FullMeal
+Carne de soya con arroz,238,FullMeal
+Arroz con milanesa,396,FullMeal
+Arroz con milanesa y ensalada cesar,456,FullMeal
+Pollo frito con arroz,638,FullMeal
+Pollo frito con papas fritas,869,FullMeal
+Pollo frito con ensalada de lechugas y tomates,678,FullMeal
+Guiso de pollo,513,FullMeal
+Papa rellena con arroz,573,FullMeal
+Tortilla de verduras con arroz,497,FullMeal
+Tallarines rojos,531,FullMeal
+Tallarines pesto,549,FullMeal
+Bistec con papas fritas,739,FullMeal
+Bistec con arroz, 649,FullMeal
+Hamburguesa (1 porcion),360,FullMeal
+Hamburguesa Royal (1 porcion),608,FullMeal
