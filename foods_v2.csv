@@ -1,7 +1,4 @@
 ﻿Food,Calories,Type
-Una taza de quaker,105,Breakfast
-Jugo de fresa,90,Breakfast
-Jugo de naranja,112,Breakfast
 Pan con mantequilla y jugo de piña,217,Breakfast
 Pan con jamon y jugo de naranja,198,Breakfast
 Pan con pollo y jugo de mango,325,Breakfast
@@ -10,10 +7,7 @@ Pan con salchicha huachana y jugo de piña,397,Breakfast
 Pan con palta y jugo de papaya,291,Breakfast
 Pan con lomo y cafe,172,Breakfast
 Yogurt con cereales,148,Breakfast
-Tostadas con mantequilla y jugo de naranja,259,Breakfast
 Tostadas con palta y cafe,109,Breakfast
-Panqueques de platano (2 porciones), 160,Breakfast
-Tortilla de huevo,199,Breakfast
 Lomo Saltado,522,Lunch
 Arroz Chaufa,563,Lunch
 Ceviche,286,Lunch
@@ -23,14 +17,8 @@ Pollo al horno con ensalada rusa,768,Lunch
 Pollo a la plancha con arroz integral,235,Lunch
 Estofado de Pollo,513,Lunch
 Saltado de Pollo,479,Lunch
-Aji de gallina,627,Lunch
-Pollo al horno con causa,675,Lunch
-Pollo a la brasa con papas, 930,Lunch
-Sopa de Verduras,72,Lunch
-Sopa a la Minuta,151,Lunch
 Sudado de pescado,534,Lunch
 Pescado a la plancha con arroz, 310,Lunch
-Arroz con milanesa,396,Lunch
 Pollo frito con ensalada de lechugas y tomates,678,Lunch
 Guiso de pollo,513,Lunch
 Papa rellena con arroz,573,Lunch
@@ -45,12 +33,8 @@ Milanesa de Pollo,396,Dinner
 Saltado de Pollo,479,Dinner
 Arroz Chaufa,563,Dinner
 Picante de Pollo,412,Dinner
-Pollo a la brasa con papas, 930,Dinner
-Pizza (2 porciones),596,Dinner
 Carne de soya con arroz,238,Dinner
-Arroz con milanesa,396,Dinner
 Guiso de pollo,513,Dinner
-Papa rellena con arroz,573,Dinner
+Papa rellena,513,Dinner
 Tortilla de verduras con arroz,497,Dinner
 Hamburguesa (1 porcion),360,Dinner
-Hamburguesa Royal (1 porcion),608,Dinner
